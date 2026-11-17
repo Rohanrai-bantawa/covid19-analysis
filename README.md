@@ -21,7 +21,7 @@ Python, pandas, matplotlib, seaborn, Prophet, Jupyter Notebook
 ## How to run
 
 ```bash
-git clone https://github.com/<your-username>/covid19-analysis.git
+git clone https://github.com/<Rohanrai-bantawa>/covid19-analysis.git
 cd covid19-analysis
 pip install -r requirements.txt
 jupyter notebook Covid19PROJECT.ipynb
